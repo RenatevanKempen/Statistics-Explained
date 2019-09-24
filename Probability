@@ -1,0 +1,20 @@
+Interessante use-case POSTNL (Martin = Data Scientist POSTNL en Jelmer van Riviq)
+
+Bij PostNL hebben ze gekeken naar hoe goed hun FAQ's op hun website aansloten bij de vragen die de klanten hadden. 
+Ze hebben dit gebouwd in R-studio met een Amazon Database
+
+Dit project hebben ze als volgt aangevlogen:
+1. bouwen trainingsset met unieke situaties
+2. FAQ per unieke situatie
+3. Wanneer is een FAQ goed (bepalen):
+  - als ze niet bellen
+  - als ze positieve feedback geven achteraf via Usuabilla
+4. Algorithme bouwen  - naive bayes gebruikt voor de voorspelling
+5. top 3 FAQ selecteren voor de site per situatie
+6. Controleren met Click-Trough-Ratio (stijgend) en call-ratio (dalend)
+
+Uiteindelijk hebben ze gekeken naar de Posterior Probability in het Naive Bayes algorithme:
+Posterior Probability = Joint probability / Prior
+where:
+- Joint Probability = (FAQ was goed / sum(FAQ getoond)) * (FAQ was goed / sum(goede FAQ's))
+- Prior = sum((FAQ was goed / sum(FAQ getoond)) * (FAQ was goed / sum(goede FAQ's)))
