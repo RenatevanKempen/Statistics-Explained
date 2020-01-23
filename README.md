@@ -7,6 +7,8 @@ In this repository I will put concepts and information, clearly explained, to he
 - All scripts have comments in it, but please feel free to contact me (renate@baime.nl) if something is not clear enough!!
 - I've also added a summary of the book from Ott & Longnecker, so you have all definitions in one (fairly smaller) word document. 
 
+**note**: I'm not yet finished with the summary of the book as well as getting all codes in, this repository will be updated regularly. Should there be something you want to add, comment on or request with high priority, feel free!!
+
 Hope this repository helps you in getting better at statistics. 
 Let me know what you think. 
 
