@@ -7,7 +7,7 @@ This repo was designed to help anyone get better in Statistics. You will find cl
 - I'll show you how to use LaTex to showcase the proper formulas in Python markdown.
 - I've also added a [summary of the book from Ott & Longnecker](https://github.com/RenatevanKempen/Statistics-Explained/blob/master/Statistical%20Methods%20and%20Data%20Analyses.docx), so you have all definitions in one (fairly smaller) word document. 
 
-All scripts have comments in it, but please feel free to reach out to me via [linkedin](https://www.linkedin.com/in/renatevankempen/) or via [email](renate@baime.nl)!!
+All scripts have comments in it, but please feel free to reach out to me via [linkedin](https://www.linkedin.com/in/renatevankempen/) or via [email](renate@baime.nl)!
 
 **note**: I'm not yet finished with the summary of the book as well as getting all codes in, this repository will be updated regularly. Should there be something you want to add, comment on or request with high priority, be my guest!!
 
