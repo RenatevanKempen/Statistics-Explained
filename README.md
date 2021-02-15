@@ -9,9 +9,6 @@ This repo was designed to help anyone get better in Statistics. You will find cl
 
 All scripts have comments in it, but please feel free to reach out to me via [linkedin](https://www.linkedin.com/in/renatevankempen/) or via [email](renate@baime.nl)!
 
-## Multiple Linear Regression Explained: 
-![image](https://user-images.githubusercontent.com/47600826/107949378-780f2200-6f95-11eb-8dfb-145acf711e06.png)
-
 
 **note**: I'm not yet finished with the summary of the book as well as getting all codes in, this repository will be updated regularly. Should there be something you want to add, comment on or request with high priority, be my guest!!
 
